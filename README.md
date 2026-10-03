@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of datlechin/flarum-who-replied.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-who-replied) or the [upstream repository](https://github.com/flatension/who-replied).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/datlechin-flarum-who-replied/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/datlechin-flarum-who-replied/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-12-11 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-who-replied/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/datlechin-flarum-who-replied.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-who-replied.json)
 
